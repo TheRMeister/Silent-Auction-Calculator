@@ -8,3 +8,6 @@
 ## Running locally
 * `poetry install`
 * `poetry run solution.py`
+
+## Unit test
+* `poetry run pytest`
