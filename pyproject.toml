@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "repl_python3_blind-auction-start"
+name = "silent-auction-calculator"
 version = "0.1.0"
 description = ""
 authors = ["Your Name <you@example.com>"]
@@ -9,6 +9,7 @@ python = "^3.8"
 replit = "^3.2.4"
 
 [tool.poetry.dev-dependencies]
+pytest = "^7.1.1"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
